@@ -1,5 +1,2 @@
 10:37
 Primeiro commit
-
-10:38
-Criação da branch "desenv"
